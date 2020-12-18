@@ -13,9 +13,10 @@ Some of the basics of the design:
 
 ## Features
 Itemized list of intended features:
-[ ] Build basic house and player can travel from room to room
-[ ] Make basic UI with help
-[ ] Build out each room with objects for the player to interact with (following is a list of rooms)
+[x] Build basic house and player can travel from room to room
+[x] Make basic UI with help
+[x] Build out each room with connections
+[ ] Add messages and such to each room
     [ ] Front Hallway
     [ ] Living Room
     [ ] Back Hallway
@@ -30,6 +31,5 @@ Itemized list of intended features:
     [ ] Blue room
     [ ] Yellow room
     [ ] Green room
-    [ ] Basement
 [ ] Time passes and certain events happen after a certain amount of time. For example, if a player spends a lot of time in a room, the game will ask if they want a hint/all hints
 [ ] Use colored text to highlight items
